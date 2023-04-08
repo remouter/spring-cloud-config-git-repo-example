@@ -26,6 +26,6 @@ spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/ostock_dev
     username: postgres
-    password: {cipher}e6f0b3d1001768c4d2dd002b6f9d6466114d274304ed31b223a1e82a21095651
+    password: {cipher} e6f0b3d1001768c4d2dd002b6f9d6466114d274304ed31b223a1e82a21095651
 example:
   property: I AM A DEV!
